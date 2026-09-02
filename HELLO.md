@@ -10,5 +10,7 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Alex
 - Sam
 - Joe
+- Jason
 
 - Jordan (sample PR)
+- Markus (my first PR)
