@@ -11,6 +11,7 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Sam
 - Caroline
 - Joe
+- Nicholas Hanzuk
 
 - Jordan (sample PR)
 - Derek
