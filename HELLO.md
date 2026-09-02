@@ -9,15 +9,18 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Facilitator (example)
 - Alex
 - Sam
-- Caroline
-- Joe
+- Jason
 - Nicholas Hanzuk
 
 - Jordan (sample PR)
-- Derek
 - RileyS
 - Markus (my first PR)
-- Cornelia
-- Martin
+- Randall Stillwell
+- Jeff
+- Tim
+- Towfique
+- Joe
+- Louden
 - Nick Noll
-- Nicolas
+- Caroline
+- Cornelia
