@@ -53,7 +53,7 @@ After Cursor shows your commit as pushed:
 3. Title example: `Hello from Alex`
 4. Create the pull request. That is the finish line for this exercise.
 
-A worked example of this (one new file, not an edit to a shared list) is on the repo as a sample pull request, so you can see what “done” looks like.
+A worked example of this (one new file, not an edit to a shared list) is [pull request #24](https://github.com/Timortiz-trimble/github-workshop-hello/pull/24). Leave that open as “what done looks like.”
 
 ## Out of scope today
 
