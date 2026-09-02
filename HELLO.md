@@ -26,3 +26,6 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Cornelia
 - Marko
 - Arturo
+- Derek
+- Martin
+- Nathan
