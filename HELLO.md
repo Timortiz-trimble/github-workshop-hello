@@ -11,4 +11,5 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Sam
 
 - Jordan (sample PR)
+- Markus (my first PR)
 - Nick Noll
