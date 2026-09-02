@@ -18,3 +18,4 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Jeff
 - Tim
 - Towfique
+- Joe
