@@ -9,7 +9,6 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Facilitator (example)
 - Alex
 - Sam
-- Joe
 - Jason
 - Nicholas Hanzuk
 
@@ -19,3 +18,4 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Jeff
 - Tim
 - Towfique
+- Joe
