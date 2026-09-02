@@ -6,15 +6,18 @@ You will not break anything important here. The only job is to practice the loop
 
 1. Get a copy of this folder onto your computer (clone).
 2. Make a **branch** (your own workbench, not the main floor).
-3. Add your first name to [`HELLO.md`](HELLO.md).
+3. Copy [`hello/TEMPLATE.md`](hello/TEMPLATE.md) to a **new** file named `hello/your-github-username.md` and fill in your details.
 4. **Commit** (save a snapshot) and **push** (send it up).
 5. Open a **pull request** (propose the change).
+
+Each person adds **their own file**. That way two people are not writing on the same clipboard — Git can merge both without a conflict.
 
 Think of it like a car shop:
 
 - **Git** is the service-history book.
 - **GitHub** is the dealer’s shared record for the whole fleet.
 - **Cursor** is the bay where you turn the wrenches.
+- The `hello/` folder is the garage. Your file is **your stall**. Do not park in someone else’s stall, and do not rewrite the stall map (`TEMPLATE.md`).
 
 ## Open this in Cursor
 
@@ -30,11 +33,16 @@ https://github.com/Timortiz-trimble/github-workshop-hello
 
 If clone asks you to sign in, use GitHub — not a random password manager login.
 
+You should see a `hello` folder with `TEMPLATE.md` inside.
+
 ## What to change
 
-Only edit **`HELLO.md`**. Add **one line** under the class list: your **first name** (or a nickname). Do not delete other people’s lines.
+1. Work on a branch named `hello/your-github-username` (example: `hello/alexokscin-trmb`). Do **not** commit to `main`.
+2. Duplicate [`hello/TEMPLATE.md`](hello/TEMPLATE.md). Rename the copy to **your GitHub username**, still inside `hello/`.
+3. Fill in the blanks in **your** file only.
+4. Do not edit `TEMPLATE.md`. Do not edit [`HELLO.md`](HELLO.md) (that list is the morning class archive). Do not edit anyone else’s file.
 
-Do **not** commit to `main`. Work on a branch named like `hello/your-first-name`.
+If you did **not** get a collaborator invite, **Fork** this repo on GitHub, clone *your* fork, and open a pull request **into** `Timortiz-trimble/github-workshop-hello`. Same steps.
 
 ## Open a pull request
 
@@ -45,7 +53,7 @@ After Cursor shows your commit as pushed:
 3. Title example: `Hello from Alex`
 4. Create the pull request. That is the finish line for this exercise.
 
-A worked example is already on the repo as a sample pull request, so you can see what “done” looks like.
+A worked example of this (one new file, not an edit to a shared list) is on the repo as a sample pull request, so you can see what “done” looks like.
 
 ## Out of scope today
 
