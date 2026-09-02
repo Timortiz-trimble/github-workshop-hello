@@ -7,7 +7,6 @@ Example: if your GitHub username is `alexokscin-trmb`, your new file is `hello/a
 Do not change this template. Do not edit anyone else’s file. Your pull request should **add one new file** named after your GitHub username.
 
 ---
-    10|
 # Hello from Sudam Fernando
 
 - **Name:** Sudam Fernando
