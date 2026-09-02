@@ -1,3 +1,5 @@
+> **Morning class archive.** Afternoon lab: copy [`hello/TEMPLATE.md`](hello/TEMPLATE.md) to `hello/your-github-username.md` and open a pull request. Do not add names here.
+
 # Hello, class
 
 Add **one new line** with your first name. Keep everyone else’s lines.
