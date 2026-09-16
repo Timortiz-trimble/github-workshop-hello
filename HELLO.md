@@ -29,3 +29,4 @@ Keep it boring on purpose — this file is only for practicing a pull request.
 - Marko
 - Arturo
 - Nathan
+- Bruce
