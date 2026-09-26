@@ -1,5 +1,5 @@
-# Hello from [your name]
+# Hello from Robyn
 
-- **Name:**
+- **Name:** Robyn
 - **GitHub username:** robynkinney-cloud
-- **One line (optional):** why you are in this workshop, or what product you work on. Keep it public-safe — no work secrets.
+- **One line (optional):** To learn how GitHub works and how teams will use GitHub for project collaboration.
